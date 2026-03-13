@@ -1,0 +1,9 @@
+{
+  "name": "evalshub-ci-webhook-test",
+  "version": "1.0.0",
+  "description": "Minimal repo to test EvalsHub CI/CD webhook",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

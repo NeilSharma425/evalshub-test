@@ -19,8 +19,7 @@ x
 
 ## 3. Push this sample to your repo
 
-From this folder (or the repo rssoot after you’ve copied these files in):
-
+From this folder (or the repo rssoot afteqa
 ```bash
 git init
 git add .

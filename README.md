@@ -10,7 +10,7 @@ ddj
 - Do **not** add a README or .gitignore (we’ll push this folder).
 
 ## 2. Configure CI in EvalsHub
-
+x
 1. In **EvalsHub**: go to **Settings → CI / CD**.
 2. **Step 1**: Pick a project, prompt, dataset, and scorers (or create them first).
 3. **Step 2**: Click **Create CI key** and **copy the key** (you’ll use it as the webhook secret).

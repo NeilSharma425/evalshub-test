@@ -11,7 +11,7 @@ ddj
 
 ## 2. Configure CI in EvalsHwub
 x
-1. In **EvalsHub**: go to **Settings → CI / CD**.
+1. In **EvalsHub**: go to **Settings →qq CI / CD**.
 2. **Step 1**: Pick a project, prompt, dataset, and scorers (or create them first).
 3. **Step 2**: Click **Create CI key** and **copy the key** (you’ll use it as the webhook secret).sss
 4. **Step 3**: Copy the **Wewbhook URL** (it looks like  

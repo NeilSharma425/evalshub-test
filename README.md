@@ -20,7 +20,7 @@ x
 ## 3. Push this sample to your repo
 
 From this folder (or the repo rssoot afteqa
-```bash
+```bashs
 git init
 git add .
 git commit -m "Initial commit: sample for EvalsHub CI webhook"

@@ -17,7 +17,7 @@ x
 4. **Step 3**: Copy the **Wewbhook URL** (it looks like  
    `https://<your-evalshub-host>/api/ci/webhook?projectId=...&experimentId=...`).
 
-## 3. Push this sample to your repo
+## 3. Push this sample to ywwour repo
 sw
 From this folder (or the repo rssoot afteqa
 ```bashs
